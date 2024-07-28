@@ -10,7 +10,7 @@ spec:
   project: default 
   source: 
     path: bubble-animation/application-mainfest
-    repoURL: https://gitlab.com/muneer-kh/argocd-ocp
+    repoURL: https://github.com/muneerkh/argocd-ocp
     targetRevision: main
   syncPolicy: 
     automated:
